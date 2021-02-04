@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  display: flex;
+
+}
+#square {
+  height: 250px;
+  width: 250px;
+  background-color: blue;
+  display: grid;
+  margin: 0 auto 0 auto;
+align-items: center;
+visibility: ;
+}
+
+ul {
+  border: 1px solid white;
+  align-self: center;
+justify-self: center;
+
+}
+li{
+  list-style:none;
+}
